@@ -5,6 +5,7 @@
   var MAIN = [
     { label: "Home", href: "index.html" },
     { label: "The Circle", href: "index.html#join", note: "Free" },
+    { label: "Videos", href: "videos.html", sub: "Watch and learn" },
     { label: "About Abubakar", href: "index.html#about" }
   ];
   var SCHOOLS = [
